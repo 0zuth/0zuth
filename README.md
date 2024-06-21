@@ -1,5 +1,5 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpurplenib%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=publons.svg&icon_color=%23541586&title=Github&edge_flat=true"/></a>
-
+![header](https://capsule-render.vercel.app/api?type=transparent&height=140&color=gradient&text=purplenib&reversal=false&fontAlign=76&fontSize=44&fontAlignY=40&fontColor=541586&rotate=10&stroke=541586&descAlign=65&descAlignY=41&section=header)
 <!--
 **purplenib/purplenib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
