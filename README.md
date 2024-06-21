@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=140&color=gradient&text=purplenib&reversal=false&fontAlign=81&fontSize=50&fontAlignY=40&fontColor=541586&rotate=10&stroke=541586&descAlign=65&descAlignY=41&section=header)
+![header](https://capsule-render.vercel.app/api?type=slice&height=140&color=gradient&text=purplenib&reversal=true&fontAlign=81&fontSize=50&fontAlignY=40&fontColor=541586&rotate=10&stroke=541586&descAlign=76&descAlignY=41&section=footer)
 <!--
 **purplenib/purplenib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
