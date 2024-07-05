@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A16DFFDA&random=false&width=435&lines=(%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81)%E3%84%9F(+%E2%96%94%2C+%E2%96%94+)%E3%84%8F%3C(%EF%BF%A3+c%EF%BF%A3)y%E2%96%82%CE%BE)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=140&color=gradient&text=purplenib&reversal=false&fontAlign=81&fontSize=50&fontAlignY=40&fontColor=541586&rotate=10&stroke=541586&descAlign=65&descAlignY=41&section=header)
 <!--
 **purplenib/purplenib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
