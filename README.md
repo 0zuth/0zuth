@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A16DFFDA&random=false&width=435&lines=(%E2%9D%81%C2%B4%E2%97%A1%60%E2%9D%81)%E3%84%9F(+%E2%96%94%2C+%E2%96%94+)%E3%84%8F%3C(%EF%BF%A3+c%EF%BF%A3)y%E2%96%82%CE%BE)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Pixelify+Sans&duration=5500&pause=2500&color=A36FFFDA&vCenter=true&random=false&width=650&lines=+++HELLO+%E0%B8%85%CA%95%E2%80%A2%CD%A1%CC%AB%E2%80%A2%CA%94%E0%B8%85%2C+purplenib's+github+++(_%E3%80%80_)%E3%80%82%E3%82%9Cz%EF%BD%9A%EF%BC%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=Pixelify+Sans&duration=5500&pause=2500&color=A36FFFDA&vCenter=true&random=false&width=650&lines=+++HELLO+%E0%B8%85%CA%95%E2%80%A2%CD%A1%CC%AB%E2%80%A2%CA%94%E0%B8%85...+purplenib's+github+++(_%E3%80%80_)%E3%80%82%E3%82%9Cz%EF%BD%9A%EF%BC%BA)](https://git.io/typing-svg)
 
 <!--
 **purplenib/purplenib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
