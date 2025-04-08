@@ -1,9 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&letterSpacing=&duration=3500&pause=1000&color=000000&center=true&repeat=false&width=435&height=30&lines=about+me)](https://git.io/typing-svg)
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=16&duration=1&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=17&lines=Skill)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&duration=1&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=17&lines=Skill)](https://git.io/typing-svg)
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -20,7 +16,7 @@
 <br/>
 <!-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=16&duration=1&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=17&lines=Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&duration=1&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=17&lines=Learning)](https://git.io/typing-svg)
 
 <div>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=ffe362"/>
